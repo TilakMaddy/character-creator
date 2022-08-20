@@ -10,3 +10,11 @@
   color: inherit;
 }
 
+@media(max-width: 580px) {
+  .footer {
+    height: 30px;
+    padding-top: 10px;
+    position: absolute;
+    bottom: 0;
+  }
+}
